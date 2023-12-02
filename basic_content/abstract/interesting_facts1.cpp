@@ -23,4 +23,6 @@ public:
 int main(void) {
   Test t; // error! 不能创建抽象类的对象
   return 0;
+
+  
 }
